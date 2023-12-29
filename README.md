@@ -1,1 +1,0 @@
-Hello, Bootcamp#1.
